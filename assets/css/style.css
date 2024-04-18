@@ -405,7 +405,7 @@ input[type='radio']:checked:before {
     }
 
     ::-webkit-scrollbar {
-        display: none;
+        /* display: none; */
     }
 
     .search-svg {
